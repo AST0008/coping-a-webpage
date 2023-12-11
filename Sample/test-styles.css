@@ -1,0 +1,5 @@
+@media (min-width: 762px) {
+    button span {
+        display: none;
+    }
+}
